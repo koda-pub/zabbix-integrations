@@ -50,5 +50,7 @@ To use this template, you must configure the following SNMP macros on your Zabbi
 * 🔵 **INFO**: Routine monitoring of charge levels.
 
 ---
-*Maintained as part of the [Zabbix Integrations](https://github.com/koda-pub/zabbix-integrations) repository.*
-*Author: Kordian Dawid*
+**Author**: Kordian Dawid
+**License**: [MIT License](LICENSE)
+
+_Maintained as part of the [Zabbix Integrations](https://github.com/koda-pub/zabbix-integrations) repository._
