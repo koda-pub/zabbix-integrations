@@ -51,6 +51,6 @@ To use this template, you must configure the following SNMP macros on your Zabbi
 
 ---
 **Author**: Kordian Dawid
-**License**: [MIT License](LICENSE)
+**License**: [MIT License](../LICENSE)
 
 _Maintained as part of the [Zabbix Integrations](https://github.com/koda-pub/zabbix-integrations) repository._
