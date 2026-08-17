@@ -6,7 +6,7 @@ Welcome to my collection of custom Zabbix integrations. This repository contains
 The goal of this project is to provide ready-to-use, reliable, and easy-to-configure monitoring solutions for Zabbix users.
 
 ## 🛠 Included Integrations
-- **PowerWalker-NMC-NG-SNMP**: Dedicated template for NMC NG card for PowerWalker UPS devices
+- **PowerWalker-NMC-NG-SNMP**: Dedicated template for [NMC NG card](https://powerwalker.com/product/10131028/) for PowerWalker UPS devices
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome! 
