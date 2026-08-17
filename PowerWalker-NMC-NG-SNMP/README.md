@@ -10,7 +10,7 @@ The goal of this monitoring solution is to provide early warning signs for poten
 ### 🔋 Battery Health
 * **Battery Status**: Tracks the operational state of the battery (triggers alert if status is not "normal").
 * **Charge Remaining (%)**: Monitors the percentage of remaining charge with multi-level alerting:
-    * 🔴 **High Priority**: Below 11%
+    * 🔴 **High Priority**: Below 10%
     * 🟠 **Average Priority**: Below 25%
     * 🟡 **Warning Priority**: Below 50%
     * 🔵 **Info Priority**: Below 75%
